@@ -1,9 +1,9 @@
-# 📦 Streamlit App Starter Kit 
+# 📦 Steady App
 ```
 ⬆️ (Replace above with your app's name)
 ```
 
-Description of the app ...
+This application was created to help ADHD,Autistic,Dyslexic kids to study better
 
 ## Demo App
 
